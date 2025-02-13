@@ -56,9 +56,6 @@ To run this project locally:
    python manage.py runserver
    ```
 
-## 🌐 Live Demo
-
-Check out the live app: [Your App Name on Render](https://your-app-name.onrender.com)
 
 ## 📝 Final Thoughts
 
